@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Konstantinos Ak., Managing Director of Bear in mind - Design & Development Studio
-- 🌱 I’m currently learning Agile Management, React, React Native, Next.js
+- 🌱 Methodologies & Technologies that I use: Agile Management, React, React Native, Next.js
 - 📫 Contact me through the Bear in mind (bearinmind.gr) website
 
 <!---
