@@ -1,6 +1,5 @@
 - Hi, I’m Konstantinos Ak., Managing Director of [Bear in mind - Design & Development Studio](https://bearinmind.gr)
 - Methodologies & Technologies that I use: Agile Management, React, React Native, Next.js. 
-- Contact me through our [website](https://bearinmind.gr/contact)
 
 <!---
 haggardon/haggardon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
