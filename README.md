@@ -1,4 +1,4 @@
-- Hi, I’m Konstantinos Ak., Managing Director of [Bear in mind - Design & Development Studio](https://bearinmind.gr) and Senior Frontend Engineer of [Flyway](https://flyway.app)
+- Hi, I’m Konstantinos Ak., Frontend Team Lead of [SHOPFLIX](https://shopflix.gr) & Managing Director of [Bear in mind - Design & Development Studio](https://bearinmind.gr)
 - Methodologies & Technologies that I use: Agile Management, React, React Native, Next.js, Tailwind 
 
 <!---
